@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="56cm" height="31cm" viewBox="68 -146 1114 616" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="432" y="89" width="272.4" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="432" y="89" width="272.4" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="568.2" y="103">budget</text>
+    <rect style="fill: #ffffff" x="432" y="107" width="272.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="432" y="107" width="272.4" height="36"/>
+    <polygon style="fill: #000000" points="435,117 437,120 439,117 437,114 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="441" y="123">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="535.7" y="123">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="441" y1="124.6" x2="566.5" y2="124.6"/>
+    <ellipse style="fill: #000000" cx="437" cy="133" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="441" y="139">BUDJET_NAME</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="535.7" y="139">character varying(64)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="248" y="167" width="303.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="248" y="167" width="303.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="399.6" y="181">BUDGET_STATE</text>
+    <rect style="fill: #ffffff" x="248" y="185" width="303.2" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="248" y="185" width="303.2" height="84"/>
+    <polygon style="fill: #000000" points="251,195 253,198 255,195 253,192 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="257" y="201">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="374.8" y="201">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="257" y1="202.6" x2="405.6" y2="202.6"/>
+    <ellipse style="fill: #000000" cx="253" cy="211" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="257" y="217">SUM</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="374.8" y="217">NUMBER</text>
+    <ellipse style="fill: #000000" cx="253" cy="227" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="257" y="233">STATE_TYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="374.8" y="233">character varing(16)</text>
+    <ellipse style="fill: #000000" cx="253" cy="243" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="257" y="249">BUDGET_ID (FK)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="374.8" y="249">LONG </text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="253" cy="259" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="257" y="265">STATE_NAME</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="374.8" y="265">character varing (128)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="432,117 399.6,117 399.6,157.264 "/>
+    <polygon style="fill: #000000" points="399.6,164.764 394.6,154.764 399.6,157.264 404.6,154.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="399.6,164.764 394.6,154.764 399.6,157.264 404.6,154.764 "/>
+    <text font-size="9.6" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="428" y="113">1</text>
+    <text font-size="9.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="403.6" y="163">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="68.6314" y="336.585" width="210.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="68.6314" y="336.585" width="210.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="174.031" y="350.585">ACTION</text>
+    <rect style="fill: #ffffff" x="68.6314" y="354.585" width="210.8" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="68.6314" y="354.585" width="210.8" height="116"/>
+    <polygon style="fill: #000000" points="71.6314,364.585 73.6314,367.585 75.6314,364.585 73.6314,361.585 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="77.6314" y="370.585">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="203.131" y="370.585">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="77.6314" y1="372.185" x2="233.931" y2="372.185"/>
+    <ellipse style="fill: #000000" cx="73.6314" cy="380.585" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="77.6314" y="386.585">ACTION_TYPE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="203.131" y="386.585">byte</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="73.6314" cy="396.585" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="77.6314" y="402.585">ACTION_TIME</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="203.131" y="402.585">timestamp</text>
+    <ellipse style="fill: #000000" cx="73.6314" cy="412.585" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="77.6314" y="418.585">SUM</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="203.131" y="418.585">number</text>
+    <ellipse style="fill: #000000" cx="73.6314" cy="428.585" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="77.6314" y="434.585">TOTAL_SUM</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="203.131" y="434.585">NUMBER</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="73.6314" cy="444.585" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="77.6314" y="450.585">BUDGET_STATE_ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="203.131" y="450.585">LONG (FK)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="73.6314" cy="460.585" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="77.6314" y="466.585">OPERATION_ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="203.131" y="466.585">long (fk)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="248,195 226.474,195 226.474,194.325 174.031,194.325 174.031,326.849 "/>
+    <polygon style="fill: #000000" points="174.031,334.349 169.031,324.349 174.031,326.849 179.031,324.349 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="174.031,334.349 169.031,324.349 174.031,326.849 179.031,324.349 "/>
+    <text font-size="9.6" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="244" y="191">1</text>
+    <text font-size="9.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="178.031" y="332.585">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="901.654" y="103.175" width="264.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="901.654" y="103.175" width="264.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1034" y="117.175">OPERATION_TYPE</text>
+    <rect style="fill: #ffffff" x="901.654" y="121.175" width="264.7" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="901.654" y="121.175" width="264.7" height="52"/>
+    <polygon style="fill: #000000" points="904.654,131.175 906.654,134.175 908.654,131.175 906.654,128.175 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.654" y="137.175">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="997.654" y="137.175">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="910.654" y1="138.775" x2="1028.45" y2="138.775"/>
+    <ellipse style="fill: #000000" cx="906.654" cy="147.175" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.654" y="153.175">TYPE_NAME</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="997.654" y="153.175">character varing(64)</text>
+    <ellipse style="fill: #000000" cx="906.654" cy="163.175" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.654" y="169.175">TYPE_TITLE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="997.654" y="169.175">character varing (64)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="901.654" y="194.364" width="280.1" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="901.654" y="194.364" width="280.1" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1041.7" y="208.364">CATEGORY</text>
+    <rect style="fill: #ffffff" x="901.654" y="212.364" width="280.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="901.654" y="212.364" width="280.1" height="36"/>
+    <polygon style="fill: #000000" points="904.654,222.364 906.654,225.364 908.654,222.364 906.654,219.364 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.654" y="228.364">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1020.75" y="228.364">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="910.654" y1="229.964" x2="1051.55" y2="229.964"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="906.654" cy="238.364" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="910.654" y="244.364">CATEGORY_NAME</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1020.75" y="244.364">character varing(64)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="601.872" y="364.45" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="601.872" y="364.45" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="714.972" y="378.45">OPERATION</text>
+    <rect style="fill: #ffffff" x="601.872" y="382.45" width="226.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="601.872" y="382.45" width="226.2" height="52"/>
+    <polygon style="fill: #000000" points="604.872,392.45 606.872,395.45 608.872,392.45 606.872,389.45 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.872" y="398.45">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="790.272" y="398.45">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="610.872" y1="400.05" x2="821.072" y2="400.05"/>
+    <ellipse style="fill: #000000" cx="606.872" cy="408.45" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.872" y="414.45">OPERATION_TYPE_ID (FK)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="790.272" y="414.45">LONG</text>
+    <ellipse style="fill: #000000" cx="606.872" cy="424.45" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.872" y="430.45">CATEGORY_ID (FK)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="790.272" y="430.45">LONG</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="901.654,131.175 714.972,131.175 714.972,354.714 "/>
+    <polygon style="fill: #000000" points="714.972,362.214 709.972,352.214 714.972,354.714 719.972,352.214 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="714.972,362.214 709.972,352.214 714.972,354.714 719.972,352.214 "/>
+    <text font-size="9.6" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="897.654" y="127.175">1</text>
+    <text font-size="9.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="718.972" y="360.45">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="901.654,222.364 771.522,222.364 771.522,354.714 "/>
+    <polygon style="fill: #000000" points="771.522,362.214 766.522,352.214 771.522,354.714 776.522,352.214 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="771.522,362.214 766.522,352.214 771.522,354.714 776.522,352.214 "/>
+    <text font-size="9.6" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="897.654" y="218.364">1</text>
+    <text font-size="9.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="775.522" y="360.45">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="431" y="-145" width="272.4" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="431" y="-145" width="272.4" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="567.2" y="-131">USER</text>
+    <rect style="fill: #ffffff" x="431" y="-127" width="272.4" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="431" y="-127" width="272.4" height="100"/>
+    <polygon style="fill: #000000" points="434,-117 436,-114 438,-117 436,-120 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="440" y="-111">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="527" y="-111">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="440" y1="-109.4" x2="557.8" y2="-109.4"/>
+    <ellipse style="fill: #000000" cx="436" cy="-101" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="440" y="-95">LOGIN</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="527" y="-95">character varing(64)</text>
+    <ellipse style="fill: #000000" cx="436" cy="-85" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="440" y="-79">PASSWORD</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="527" y="-79">character varing (128)</text>
+    <ellipse style="fill: #000000" cx="436" cy="-69" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="440" y="-63">FIRST_NAME</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="527" y="-63">character varing(64)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="436" cy="-53" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="440" y="-47">LAST_NAME</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="527" y="-47">character varing(64)</text>
+    <ellipse style="fill: #000000" cx="436" cy="-37" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="440" y="-31">IS_ADMIN</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="527" y="-31">Boolean</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="113" y="46" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="113" y="46" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="222.25" y="60">USER_BUDGET</text>
+    <rect style="fill: #ffffff" x="113" y="64" width="218.5" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="113" y="64" width="218.5" height="68"/>
+    <polygon style="fill: #000000" points="116,74 118,77 120,74 118,71 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="122" y="80">ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="201.3" y="80">LONG</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="122" y1="81.6" x2="232.1" y2="81.6"/>
+    <ellipse style="fill: #000000" cx="118" cy="90" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="122" y="96">USER_ID</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="201.3" y="96">Long (fk)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="118" cy="106" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="122" y="112">budget_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="201.3" y="112">long (fk)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="118" cy="122" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="122" y="128">ROLE</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="201.3" y="128">character varing</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="431,-117 167.625,-117 167.625,36.2639 "/>
+    <polygon style="fill: #000000" points="167.625,43.7639 162.625,33.7639 167.625,36.2639 172.625,33.7639 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="167.625,43.7639 162.625,33.7639 167.625,36.2639 172.625,33.7639 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="427" y="-121">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="171.625" y="42">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="432,117 412,117 412,26 276.875,26 276.875,36.2639 "/>
+    <polygon style="fill: #000000" points="276.875,43.7639 271.875,33.7639 276.875,36.2639 281.875,33.7639 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="276.875,43.7639 271.875,33.7639 276.875,36.2639 281.875,33.7639 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="428" y="113">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="280.875" y="42">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="658.422,364.45 658.422,316.585 226.731,316.585 226.731,326.849 "/>
+    <polygon style="fill: #000000" points="226.731,334.349 221.731,324.349 226.731,326.849 231.731,324.349 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="226.731,334.349 221.731,324.349 226.731,326.849 231.731,324.349 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="662.422" y="360.45">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="230.731" y="332.585">n</text>
+  </g>
+</svg>
